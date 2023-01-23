@@ -64,3 +64,5 @@ tutorial: https://www.youtube.com/watch?v=p5upoyRPNIg
 Beaglebone as Flight unit
 	https://beaglebluevoyager.com/configuring-beagle-bone-blue-as-flight-controller-unit/
 
+
+Report link: https://htmlpreview.github.io/?https://github.com/mrsamsonn/Beaglebone_Drone_Documentation/blob/main/Project_Report./ProjectReport.html
