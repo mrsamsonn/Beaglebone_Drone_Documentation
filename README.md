@@ -1,5 +1,7 @@
 # Beaglebone_Drone_Documentation
 
+Report link: https://mrsamsonn.github.io/Beaglebone_Drone_Documentation/
+
 Download the latest Debian image from beagleboard.org/latest-images.
 Install SD card programming utility Download and install balenaEtcher.
 Boot your board off of the SD card Insert SD card into your (powered-down) board, hold down the USER/BOOT button (if using Black) and apply power, either by the USB cable or 5V adapter.
@@ -65,4 +67,4 @@ Beaglebone as Flight unit
 	https://beaglebluevoyager.com/configuring-beagle-bone-blue-as-flight-controller-unit/
 
 
-Report link: https://htmlpreview.github.io/?https://github.com/mrsamsonn/Beaglebone_Drone_Documentation/blob/main/Project_Report./ProjectReport.html
+
