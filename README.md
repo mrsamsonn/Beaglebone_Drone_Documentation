@@ -4,9 +4,7 @@
 Report link: https://mrsamsonn.github.io/Beaglebone_Drone_Documentation/  
 Partner: Bryce Hoecker
 -------------------------------
-<h3>
-Demos:
-</h3>
+**Demos:**  
 
 pass attempt:  
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Wd2t7_TAAoE/0.jpg)](https://www.youtube.com/watch?v=Wd2t7_TAAoE)
