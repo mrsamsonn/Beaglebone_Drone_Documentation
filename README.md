@@ -1,6 +1,7 @@
 # Beaglebone_Drone_Documentation
 
 Report link: https://mrsamsonn.github.io/Beaglebone_Drone_Documentation/
+Partner: Bryce Hoecker
 
 Download the latest Debian image from beagleboard.org/latest-images.
 Install SD card programming utility Download and install balenaEtcher.
