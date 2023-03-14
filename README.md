@@ -6,21 +6,9 @@ Partner: Bryce Hoecker
 <h3>
 Demos:
 </h3>
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/Wd2t7_TAAoE" 
-title="YouTube video player" 
-frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-allowfullscreen>
-</iframe>
-<br><br/>
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/U6k_zvAiS3A" 
-title="YouTube video player" 
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-allowfullscreen>
-</iframe>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Wd2t7_TAAoE/0.jpg)](https://www.youtube.com/watch?v=Wd2t7_TAAoE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/U6k_zvAiS3A/0.jpg)](https://www.youtube.com/watch?v=U6k_zvAiS3A)
 
 
 
